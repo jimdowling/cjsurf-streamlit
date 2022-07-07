@@ -1,2 +1,2 @@
-hsfs[python]==3.0.0rc3
+#hsfs[python]==3.0.0rc3
 hopsworks==3.0.0rc5
